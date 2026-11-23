@@ -1,4 +1,4 @@
-## 8. Business Insights & Recommendations
+##  Business Insights & Recommendations
 
 Based on the analysis of 2,020 banking transaction records, the following insights highlight transaction performance, customer behaviour, financial activity, and opportunities for operational improvement.
 
